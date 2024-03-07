@@ -22,7 +22,7 @@ const event = {
     {
       s3: {
         bucket: {
-          name: 'your-source-bucket'
+          name: 'source-bucket'
         },
         object: {
           key: 'example.jpg'
