@@ -1,0 +1,20 @@
+{
+  "name": "serverless-image-processing-toolkit",
+  "version": "1.0.0", 
+  "description": "The Serverless Image Processing Toolkit is a JavaScript package for processing images stored in an AWS S3 bucket using AWS Lambda and the Sharp image processing library.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
